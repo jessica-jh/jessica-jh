@@ -1,4 +1,4 @@
-# Jihye (Jessica) Kim, Ph.D. (Kim, Ji Hye; 김 지 혜)
+# Jihye (Jessica) Kim, Ph.D. (Kim, Ji Hye)
 
 AI researcher working on LLM evaluation, agentic AI safety, and benchmark development. Ph.D. in Information Systems (KAIST), currently pursuing an M.S. in NLP at UC Santa Cruz.
 
