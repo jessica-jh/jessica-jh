@@ -1,6 +1,6 @@
 # Jihye (Jessica) Kim, Ph.D.
 
-AI researcher working on LLM evaluation, agentic AI safety, and benchmark development, grounded in causal inference and statistics. Ph.D. in Information Systems (KAIST), currently a graduate student in NLP at UC Santa Cruz (Dept. of Computer Science and Engineering)
+AI researcher working on LLM evaluation, agentic AI safety, and benchmark development, grounded in causal inference and statistics. Ph.D. in Information Systems (KAIST), currently a graduate student in NLP at UC Santa Cruz (Dept. of Computer Science and Engineering).
 
 [Website](https://jessica-jh.github.io) · [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jihyekimphd/)
 
