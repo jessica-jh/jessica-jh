@@ -13,7 +13,7 @@ AI researcher working on LLM evaluation, agentic AI safety, and benchmark develo
 - **MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents** — ICML AIWILD 2026. [Paper](https://openreview.net/pdf?id=KAtYLnOoo9)
 - **Working Daily, Paid Monthly? Effects of On-Demand Earned Wage Access on the Financial Well-Being of Low-Wage Workers** — Information Systems Research. [Paper](https://pubsonline.informs.org/doi/10.1287/isre.2023.0673)
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
+More list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
 
 ## Other projects
 
