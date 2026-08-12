@@ -12,9 +12,11 @@ AI researcher working on LLM evaluation, agentic AI safety, and benchmark develo
 - **SlugRAG: Domain-Specific Fine-Tuning and Model Scaling for Multi-Turn RAG Retrieval** — ACL SemEval 2026. [Paper](https://aclanthology.org/2026.semeval-1.135/)
 - **MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents** — ICML AIWILD 2026. [Paper](https://openreview.net/pdf?id=KAtYLnOoo9)
 
-## Information systems and causal research
+## Management engineering (IS) and causal inference research
 
 - **Working Daily, Paid Monthly? Effects of On-Demand Earned Wage Access on the Financial Well-Being of Low-Wage Workers** — *Information Systems Research*. [Paper](https://pubsonline.informs.org/doi/10.1287/isre.2023.0673)
+- **The Economics of In-App Payment Options: Implications for Digital Platform Governance** — in revision for second-round review at the *Journal of Management Information Systems*
+- **Beyond Efficiency: The Impact of Self-Order Kiosk Adoption on Demand Variety** — working paper
 
 See my full publication list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
 
