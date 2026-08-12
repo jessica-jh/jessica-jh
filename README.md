@@ -18,7 +18,7 @@ AI researcher working on LLM evaluation, agentic AI safety, and benchmark develo
 - **The Economics of In-App Payment Options: Implications for Digital Platform Governance** — in revision for second-round review at the *Journal of Management Information Systems*
 - **Beyond Efficiency: The Impact of Self-Order Kiosk Adoption on Demand Variety** — working paper
 
-See my full publication list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
+See more publication list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
 
 ## Selected technical projects
 
