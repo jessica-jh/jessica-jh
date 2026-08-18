@@ -22,8 +22,8 @@ See more publication list on [Google Scholar](https://scholar.google.com/citatio
 
 ## Selected technical projects
 
-- **[Mathematical Entity Extraction](https://github.com/jessica-jh/mathematical_entity_extraction)** — LoRA-fine-tuned LLM for extracting definitions, theorems, and proofs from mathematics textbooks, evaluated against a few-shot baseline
 - **[Sourcerer](https://github.com/jessica-jh/Sourcerer)** — semantic search over a personal PDF library that finds which paper actually supports a claim sentence, with cross-encoder reranking, an LLM judge, and section-level provenance to flag re-citation risk
+- **[Mathematical Entity Extraction](https://github.com/jessica-jh/mathematical_entity_extraction)** — LoRA-fine-tuned LLM for extracting definitions, theorems, and proofs from mathematics textbooks, evaluated against a few-shot baseline
 - **[BioNLP](https://github.com/jessica-jh/BioNLP)** — biomedical named entity recognition using a BiLSTM-CRF with Viterbi decoding
 - **[nanoGPT](https://github.com/jessica-jh/nanoGPT)** — character-level GPT implemented while following Andrej Karpathy’s nanoGPT lecture
 - **[Job Market Tracker](https://github.com/jessica-jh/job-market-tracker)** — full-stack job application tracker built with React and FastAPI
