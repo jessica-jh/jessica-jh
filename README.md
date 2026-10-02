@@ -1,4 +1,4 @@
-# Jihye (Jessica) Kim, Ph.D.
+# Jihye Kim, Ph.D.
 
 Hi, I'm a researcher, working on LLM evaluation, agentic AI safety, and benchmark development, with a methodological foundation in causal inference and statistics. Ph.D. in Information Systems from KAIST (ME) and currently pursuing graduate training in NLP at UC Santa Cruz (CSE).
 
