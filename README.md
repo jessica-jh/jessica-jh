@@ -7,6 +7,7 @@ Hi, I'm a researcher, working on LLM evaluation, agentic AI safety, and benchmar
 ## AI and NLP research
 
 - **Coercion Suppression Increases Preference Hallucinations in LLM Negotiation Agents** — ACL TrustNLP 2026. [Paper](https://aclanthology.org/2026.trustnlp-main.17/) · [Code](https://github.com/jessica-jh/socially-aligned-strategic-agents)
+- **RELATE: An Evaluation Framework for measuring Relational Orientation of Large Language Models** — arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09569)
 - **Right or Wrong, Models Comply: Directional Blindness in LLM Moral Judgment** — arXiv, 2026. [Paper](https://arxiv.org/abs/2606.14037)
 - **Optimizing Verbal Calibration: Structural Prompting for Reducing Confidence Error in LLMs** — under review. [Code](https://github.com/Umit-Azirakhmet/llm-trust-gap)
 - **SlugRAG: Domain-Specific Fine-Tuning and Model Scaling for Multi-Turn RAG Retrieval** — ACL SemEval 2026. [Paper](https://aclanthology.org/2026.semeval-1.135/)
