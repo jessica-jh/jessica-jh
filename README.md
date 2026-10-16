@@ -16,9 +16,11 @@ Hi, I'm a researcher working on LLM evaluation, agentic AI safety, and benchmark
 ## Information Systems research with causal inference
 
 - **Working Daily, Paid Monthly? Effects of On-Demand Wage Access on the Financial Engagement of Low-Wage Workers** — *Information Systems Research*, 37(3), 2026. [Paper](https://pubsonline.informs.org/doi/10.1287/isre.2023.0673)
-- **Platform Governance and Competition in Digital Markets** — under second-round review at the *Journal of Management Information Systems*
-- **Trending Search Features and Online Public Participation** — under second-round review at *Decision Support Systems*
+- **Platform Governance and Competition in Digital Markets**† — under second-round review at the *Journal of Management Information Systems*
+- **Trending Search Features and Online Public Participation**† — under second-round review at *Decision Support Systems*
 - **Beyond Efficiency: The Impact of Self-Order Kiosk Adoption on Demand Variety** — working paper
+
+<sub>† Descriptive labels; actual manuscript titles are withheld during peer review.</sub>
 
 See more publication list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
 
