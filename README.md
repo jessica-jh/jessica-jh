@@ -1,22 +1,23 @@
 # Jihye Kim, Ph.D.
 
-Hi, I'm a researcher, working on LLM evaluation, agentic AI safety, and benchmark development, with a methodological foundation in causal inference and statistics. Ph.D. in Information Systems from KAIST (ME) and currently pursuing graduate training in NLP at UC Santa Cruz (CSE).
+Hi, I'm a researcher working on LLM evaluation, agentic AI safety, and benchmark development, with a methodological foundation in causal inference and statistics. Ph.D. in Information Systems from KAIST (ME) and currently pursuing graduate training in NLP at UC Santa Cruz (CSE).
 
 [Website](https://jessica-jh.github.io) · [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jihyekimphd/)
 
 ## AI and NLP research
 
-- **Coercion Suppression Increases Preference Hallucinations in LLM Negotiation Agents** — ACL TrustNLP 2026. [Paper](https://aclanthology.org/2026.trustnlp-main.17/) · [Code](https://github.com/jessica-jh/socially-aligned-strategic-agents)
-- **RELATE: An Evaluation Framework for measuring Relational Orientation of Large Language Models** — arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09569)
+- **Coercion Suppression Increases Preference Hallucinations via a Deceptive Bypass in K-Level Negotiation Agents** — ACL TrustNLP 2026. [Paper](https://aclanthology.org/2026.trustnlp-main.17/) · [Code](https://github.com/jessica-jh/socially-aligned-strategic-agents)
 - **Right or Wrong, Models Comply: Directional Blindness in LLM Moral Judgment** — arXiv, 2026. [Paper](https://arxiv.org/abs/2606.14037)
-- **Optimizing Verbal Calibration: Structural Prompting for Reducing Confidence Error in LLMs** — under review. [Code](https://github.com/Umit-Azirakhmet/llm-trust-gap)
+- **RELATE: An Evaluation Framework for Measuring Relational Orientation of Large Language Models** — arXiv, 2026. [Paper](https://arxiv.org/abs/2610.09569)
+- **Optimizing Verbal Calibration: Structural Prompting for Reducing Confidence Error in LLMs** — working paper. [Code](https://github.com/Umit-Azirakhmet/llm-trust-gap)
 - **SlugRAG: Domain-Specific Fine-Tuning and Model Scaling for Multi-Turn RAG Retrieval** — ACL SemEval 2026. [Paper](https://aclanthology.org/2026.semeval-1.135/)
 - **MIRAGE: A Polarity-Flipping Encoding Subspace in LLM Agents** — ICML AIWILD 2026. [Paper](https://openreview.net/pdf?id=KAtYLnOoo9)
 
-## Management Engineering (IS) with Causal Inference research
+## Information Systems research with causal inference
 
-- **Working Daily, Paid Monthly? Effects of On-Demand Earned Wage Access on the Financial Well-Being of Low-Wage Workers** — *Information Systems Research*. [Paper](https://pubsonline.informs.org/doi/10.1287/isre.2023.0673)
-- **The Economics of In-App Payment Options: Implications for Digital Platform Governance** — in revision for second-round review at the *Journal of Management Information Systems*
+- **Working Daily, Paid Monthly? Effects of On-Demand Wage Access on the Financial Engagement of Low-Wage Workers** — *Information Systems Research*, 37(3), 2026. [Paper](https://pubsonline.informs.org/doi/10.1287/isre.2023.0673)
+- **Platform Governance and Competition in Digital Markets** — under second-round review at the *Journal of Management Information Systems*
+- **Trending Search Features and Online Public Participation** — under second-round review at *Decision Support Systems*
 - **Beyond Efficiency: The Impact of Self-Order Kiosk Adoption on Demand Variety** — working paper
 
 See more publication list on [Google Scholar](https://scholar.google.com/citations?user=53q-JWUAAAAJ&hl=en).
